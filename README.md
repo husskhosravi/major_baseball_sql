@@ -62,7 +62,7 @@ SELECT yearID, teamID,
 FROM salaries;
 ```
 
-- **Top 20% of teams in terms of average annual spending**
+- **Top 20% in Terms of Average Annual Spending**
 ```sql
 WITH ts AS (
     SELECT yearID, teamID, SUM(salary) AS total_spend
