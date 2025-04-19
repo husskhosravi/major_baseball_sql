@@ -1,6 +1,6 @@
 # ⚾ Major League Baseball SQL Analytics
 
-This project analyses Major League Baseball data using advanced SQL techniques. It demonstrates real-world querying skills, analytical thinking and data storytelling using SQL only.
+This project analyses Major League Baseball dataset using advanced SQL techniques. It demonstrates real-world querying skills, analytical thinking and data storytelling using SQL only.
 
 ## 📌 Skills Demonstrated
 
